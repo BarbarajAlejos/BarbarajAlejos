@@ -26,7 +26,7 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo backend, program
 - Google Colab
 - Power BI
 
-### 🚀 Proyectos
+### Proyectos
 
 🔹 **GuitarHero**  
 Proyecto de desarrollo de software realizado durante mi formación en Ingeniería de Sistemas.
@@ -37,7 +37,7 @@ Proyecto de aprendizaje automático orientado al reconocimiento de emociones med
 🔹 **StockLogistic**  
 Proyecto orientado a la gestión de inventario y desarrollo de servicios backend.
 
-### 📚 Actualmente aprendiendo
+###  Actualmente aprendiendo
 
 - Desarrollo backend
 - APIs REST
@@ -45,6 +45,6 @@ Proyecto orientado a la gestión de inventario y desarrollo de servicios backend
 - Bases de datos
 - Desarrollo de proyectos con Java y Python
 
-### 🎯 Objetivo profesional
+### Objetivo profesional
 
 Busco una oportunidad de práctica profesional en tecnología donde pueda aplicar mis conocimientos, participar en proyectos reales y continuar desarrollándome como profesional de Ingeniería de Sistemas.
