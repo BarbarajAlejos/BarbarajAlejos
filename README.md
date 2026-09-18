@@ -1,4 +1,4 @@
-# Hola, soy Bárbara Alejos 👋
+# Hola, soy Bárbara Alejos 
 
 ### Ingeniería de Sistemas | Desarrollo de Software
 
